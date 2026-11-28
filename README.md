@@ -266,21 +266,21 @@
     </td>
     <td align="center" width="175">
       <b>🥈 #2</b><br/>
+      <a href="./aportes-comunidad/soluciones-retos/eandreaja/README.md" title="Portafolio de Andrea Jaramillo (@eandreaja)">
+        <img src="https://github.com/eandreaja.png?size=120" width="68" height="68" style="border-radius: 50%;" alt="eandreaja"/><br/>
+        <b>Andrea Jaramillo</b>
+      </a><br/>
+      <sub>🧭 Timonel • <b>230 XP</b></sub><br/>
+      <a href="./aportes-comunidad/soluciones-retos/eandreaja/README.md"><b>🎓 Ver Portafolio</b></a>
+    </td>
+    <td align="center" width="175">
+      <b>🥉 #3</b><br/>
       <a href="./aportes-comunidad/soluciones-retos/Cuburi/README.md" title="Portafolio de Yorman Agudelo (@Cuburi)">
         <img src="https://github.com/Cuburi.png?size=120" width="68" height="68" style="border-radius: 50%;" alt="Cuburi"/><br/>
         <b>Yorman Agudelo</b>
       </a><br/>
       <sub>🧭 Timonel • <b>220 XP</b></sub><br/>
       <a href="./aportes-comunidad/soluciones-retos/Cuburi/README.md"><b>🎓 Ver Portafolio</b></a>
-    </td>
-    <td align="center" width="175">
-      <b>🥉 #3</b><br/>
-      <a href="./aportes-comunidad/soluciones-retos/eandreaja/README.md" title="Portafolio de Andrea Jaramillo (@eandreaja)">
-        <img src="https://github.com/eandreaja.png?size=120" width="68" height="68" style="border-radius: 50%;" alt="eandreaja"/><br/>
-        <b>Andrea Jaramillo</b>
-      </a><br/>
-      <sub>🧭 Timonel • <b>220 XP</b></sub><br/>
-      <a href="./aportes-comunidad/soluciones-retos/eandreaja/README.md"><b>🎓 Ver Portafolio</b></a>
     </td>
     <td align="center" width="175">
       <b>🏅 #4</b><br/>
@@ -682,20 +682,20 @@ Si no puedes instalar Docker Desktop o tu máquina no tiene suficiente memoria R
       <sub><a href="./aportes-comunidad/soluciones-retos/Arlex0296/README.md">🎓 Portafolio</a></sub>
     </td>
     <td align="center" width="140">
+      <a href="./aportes-comunidad/soluciones-retos/eandreaja/README.md" title="Andrea Jaramillo (@eandreaja) — 230 XP">
+        <img src="https://github.com/eandreaja.png?size=100" width="64" height="64" style="border-radius: 50%;" alt="eandreaja"/><br/>
+        <sub><b>🥈 Andrea Jaramillo</b></sub>
+      </a><br/>
+      <sub>🧭 Timonel • <b>230 XP</b></sub><br/>
+      <sub><a href="./aportes-comunidad/soluciones-retos/eandreaja/README.md">🎓 Portafolio</a></sub>
+    </td>
+    <td align="center" width="140">
       <a href="./aportes-comunidad/soluciones-retos/Cuburi/README.md" title="Yorman Agudelo (@Cuburi) — 220 XP">
         <img src="https://github.com/Cuburi.png?size=100" width="64" height="64" style="border-radius: 50%;" alt="Cuburi"/><br/>
-        <sub><b>🥈 Yorman Agudelo</b></sub>
+        <sub><b>🥉 Yorman Agudelo</b></sub>
       </a><br/>
       <sub>🧭 Timonel • <b>220 XP</b></sub><br/>
       <sub><a href="./aportes-comunidad/soluciones-retos/Cuburi/README.md">🎓 Portafolio</a></sub>
-    </td>
-    <td align="center" width="140">
-      <a href="./aportes-comunidad/soluciones-retos/eandreaja/README.md" title="Andrea Jaramillo (@eandreaja) — 220 XP">
-        <img src="https://github.com/eandreaja.png?size=100" width="64" height="64" style="border-radius: 50%;" alt="eandreaja"/><br/>
-        <sub><b>🥉 Andrea Jaramillo</b></sub>
-      </a><br/>
-      <sub>🧭 Timonel • <b>220 XP</b></sub><br/>
-      <sub><a href="./aportes-comunidad/soluciones-retos/eandreaja/README.md">🎓 Portafolio</a></sub>
     </td>
     <td align="center" width="140">
       <a href="./aportes-comunidad/soluciones-retos/juanjosegonzalezrosales/README.md" title="Juan José González Rosales (@juanjosegonzalezrosales) — 220 XP">
